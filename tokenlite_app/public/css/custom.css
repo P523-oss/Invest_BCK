@@ -1,0 +1,15 @@
+/*! TokenLite - ICO Token Sale Dashboard by Softnio | @version v1.0.1 */
+/*! ## WRITE YOUR OWN SYTLE AFTER FROM ADMIN PANEL */
+
+table.tbl_data{
+    border:1px solid darkgray ;
+  }
+table.tbl_data > thead > tr > th{
+    border:1px solid darkgray ;
+    padding:5px;
+}
+table.tbl_data > tbody > tr > td{
+    border:1px solid darkgray ;
+    padding:5px;
+    color:darkgray;
+}
